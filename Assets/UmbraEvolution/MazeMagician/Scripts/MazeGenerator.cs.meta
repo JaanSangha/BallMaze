@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: af421f6b0345faa45a566101c15241ef
+labels:
+- Crafter
+- Builder
+- Generation
+- Procedural
+- Generator
+- Labyrinth
+- Maze
+timeCreated: 1433988588
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
